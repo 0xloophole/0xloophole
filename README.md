@@ -107,7 +107,7 @@
 | [Superposition](https://code4rena.com/audits/2024-10-superposition) | Longtail, Arbitrum's cheapest most rewarding AMM, is the first AMM that pays you to use it, built on concepts like payment for orderflow. | Solidity | #32 | 1M | $1.26 | @NexusAudits |
 | [Chakra](https://code4rena.com/audits/2024-08-chakra) | The first modular settlement layer designed to unlock Bitcoin's liquidity across diverse blockchain ecosystems. | Solidity | #60 | 1H 1M | $0.83 | @NexusAudits |
 | [Phi](https://code4rena.com/audits/2024-08-phi) | The identity layer for onchain. | Solidity | #25 | 2H | $42.05 | @NexusAudits |
-| [LoopFi]([https://github.com](https://code4rena.com/audits/2024-07-loopfi)) | A dedicated lending market for Ethereum carry trades. Users can supply a long tail of Liquid Restaking Tokens (LRT) and their derivatives as collateral to borrow ETH for increased yield exposure. | Solidity | #25 | 2M | $389.86 | @NexusAudits |
+| [LoopFi](https://code4rena.com/audits/2024-07-loopfi) | A dedicated lending market for Ethereum carry trades. Users can supply a long tail of Liquid Restaking Tokens (LRT) and their derivatives as collateral to borrow ETH for increased yield exposure. | Solidity | #25 | 2M | $389.86 | @NexusAudits |
 | [Munchables](https://code4rena.com/audits/2024-07-munchables) | A web3 point farming game in which Keepers nurture creatures to help them evolve, deploying strategies to earn them rewards in competition with other players. | Solidity | #45 | 1 M | $29.18 | @cheatc0d3 |
 | [Vultisig](https://code4rena.com/audits/2024-06-vultisig) | The secure, seedless crypto wallet & vault for everyone. | Solidity | #20 | 1M | $189.99 | @cheatc0d3 |
 | [Thorchain](https://code4rena.com/audits/2024-06-thorchain) | One of the largest DEXs in crypto, handling $100 million+ in daily volume and supporting Bitcoin, Ethereum, Cosmoshub, and various UTXO & EVM chains. | Solidity | #6 | 1M | $758.41 | @cheatc0d3 |
@@ -152,8 +152,8 @@
 
 | Protocol | Description | Language | Position | Findings | Rewards | Handle |
 |----------|-------------|----------|----------|----------|---------|--------|
-| [VeChain Stargate](https://hackenproof.com/audit-programs/vechain-stargate-sc-dualdefense-audit-3) | A key pillar of the upcoming Hayabusa hard fork in VeChain network, supplying the on-chain framework for delegating stake to validator nodes and for managing exist and future rewards. | Solidity | #1 | 3L | Na | @cheatcode |
-| [ZIGChain](https://hackenproof.com/audit-programs/zigchain-code-dualdefense-audit) | Powering the next era of decentralized asset management through ZIGChain, enabling fund managers to deploy on-chain strategies that unlock investment opportunities for everyone. | Solidity | #8 | 3L | Na | @cheatcode |
+| [VeChain Stargate](https://hackenproof.com/audit-programs/vechain-stargate-sc-dualdefense-audit-3) | A key pillar of the upcoming Hayabusa hard fork in VeChain network, supplying the on-chain framework for delegating stake to validator nodes and for managing exist and future rewards. | Go | #1 | 3L | Na | @cheatcode |
+| [ZIGChain](https://hackenproof.com/audit-programs/zigchain-code-dualdefense-audit) | Powering the next era of decentralized asset management through ZIGChain, enabling fund managers to deploy on-chain strategies that unlock investment opportunities for everyone. | Go | #8 | 3L | Na | @cheatcode |
 | [Blockz](https://hackenproof.com/audit-programs/blockz-smart-contract-audit-contest) | Blockz is Core’s native NFT marketplace, built to deliver a seamless experience for artists, collectors, and projects on the Core blockchain. | Solidity | #16 | 1M 1L | $289.63 | @cheatcode |
 
 ---
@@ -167,9 +167,8 @@
 
 | Protocol | Description | Language | Position | Findings | Rewards | Handle |
 |----------|-------------|----------|----------|----------|---------|--------|
-| [VeChain Stargate](https://hackenproof.com/audit-programs/vechain-stargate-sc-dualdefense-audit-3) | A key pillar of the upcoming Hayabusa hard fork in VeChain network, supplying the on-chain framework for delegating stake to validator nodes and for managing exist and future rewards. | Solidity | #1 | 3L | Na | @cheatcode |
-| [ZIGChain](https://hackenproof.com/audit-programs/zigchain-code-dualdefense-audit) | Powering the next era of decentralized asset management through ZIGChain, enabling fund managers to deploy on-chain strategies that unlock investment opportunities for everyone. | Solidity | #8 | 3L | Na | @cheatcode |
-| [Blockz](https://hackenproof.com/audit-programs/blockz-smart-contract-audit-contest) | Blockz is Core’s native NFT marketplace, built to deliver a seamless experience for artists, collectors, and projects on the Core blockchain. | Solidity | #16 | 1M 1L | $289.63 | @cheatcode |
+| [ZetaChain Blockchain Software](https://hackenproof.com/programs/zetachain-blockchain-software) | An EVM-compatible L1 blockchain that connects everything: Build interoperable dApps that span any chain including Bitcoin; access all chains from one place. | Go | Na | 1L | Na | @cheatcode |
+| [Sui Protocol](https://hackenproof.com/programs/sui-protocol) | A high-performance Layer-1 blockchain platform designed to deliver near-instant, low-cost transactions. Created by former Meta (Facebook) engineers at Mysten Labs, it aims to be a scalable foundation for decentralized finance (DeFi), NFTs, and blockchain gaming. | Rust | Na | 1L | Na | @cheatcode |
 
 ---
 
